@@ -1,0 +1,87 @@
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.exe.config
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.exe
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.pdb
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.xml
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.vbprojAssemblyReference.cache
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Accueil.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Principale.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.ajout_livre.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.ajouter_categorie.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Resources.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.vbproj.GenerateResource.cache
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.vbproj.CoreCompileInputs.cache
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.exe
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.xml
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.pdb
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.connexion_admin.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\MySql.Data.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.vbproj.CopyComplete
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\Google.Protobuf.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ZstdNet.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Security.Permissions.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Memory.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Buffers.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Windows.Extensions.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\MySql.Data.xml
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.exe.config
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Liste_abonne.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Liste_Livres.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.ajout_user.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.liste_admin.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.gestion_emprunt.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.liste_emprunts.resources
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.exe.manifest
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.application
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.exe.manifest
+C:\Users\Yepy Ezek\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.application
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.exe.config
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.exe.manifest
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.application
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.exe
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.pdb
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ProjetBiblio.xml
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\Google.Protobuf.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\ZstdNet.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Security.Permissions.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Memory.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Buffers.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Windows.Extensions.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\bin\Debug\MySql.Data.xml
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.vbprojAssemblyReference.cache
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.exe.config
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Accueil.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.gestion_emprunt.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.liste_abonne.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.liste_admin.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.liste_emprunts.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Liste_Livres.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Principale.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.ajout_livre.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.ajouter_categorie.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.ajout_user.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.connexion_admin.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.Resources.resources
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.vbproj.GenerateResource.cache
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.vbproj.CoreCompileInputs.cache
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.exe.manifest
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.application
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.vbproj.CopyComplete
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.exe
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.xml
+C:\Users\Yepy\source\repos\ProjetBiblio\ProjetBiblio\obj\Debug\ProjetBiblio.pdb
